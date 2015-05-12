@@ -1,0 +1,1 @@
+Allows the user to access his/her photos in a location-wise manner, through a map. More suitable for people who travel often, and have an interest for photography.
